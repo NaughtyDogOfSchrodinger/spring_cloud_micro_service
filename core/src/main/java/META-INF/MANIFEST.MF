@@ -1,0 +1,91 @@
+Manifest-Version: 1.0
+Class-Path: compactmap-1.2.1.jar thymeleaf-extras-java8time-3.0.2.RELE
+ ASE.jar HdrHistogram-2.1.9.jar error_prone_annotations-2.0.18.jar com
+ mons-io-2.2.jar joda-time-2.10.1.jar log4j-api-2.11.1.jar spring-boot
+ -starter-web-2.1.1.RELEASE.jar commons-httpclient-3.1.jar swagger-ann
+ otations-1.5.14.jar spring-plugin-metadata-1.2.0.RELEASE.jar ribbon-2
+ .3.0.jar mysql-connector-java-5.1.30.jar mybatis-generator-core-1.3.2
+ .jar jersey-client-1.9.jar spring-data-commons-2.1.3.RELEASE.jar rxne
+ tty-0.4.9.jar byte-buddy-1.9.5.jar mybatis-spring-boot-autoconfigure-
+ 1.3.2.jar jsr311-api-1.1.1.jar util-0.0.1.jar jackson-annotations-2.9
+ .0.jar netty-buffer-4.1.22.Final.jar cglib-3.2.2.jar jackson-databind
+ -2.9.7.jar spring-web-5.1.3.RELEASE.jar xstream-1.4.10.jar spring-bea
+ ns-5.1.3.RELEASE.jar antlr-runtime-3.4.jar jettison-1.3.7.jar jersey-
+ core-1.9.jar cache-0.0.1.jar spring-tx-5.1.3.RELEASE.jar hystrix-seri
+ alization-1.5.18.jar aspectjweaver-1.8.13.jar springfox-core-2.8.0.ja
+ r feign-form-3.5.0.jar spring-cloud-commons-2.1.0.RELEASE.jar pagehel
+ per-5.1.8.jar spring-cloud-starter-openfeign-2.1.0.RELEASE.jar pagehe
+ lper-spring-boot-starter-1.2.3.jar spring-boot-starter-logging-2.1.1.
+ RELEASE.jar poi-ooxml-3.13.jar springfox-schema-2.8.0.jar hystrix-met
+ rics-event-stream-1.5.18.jar reactive-streams-1.0.2.jar springfox-spr
+ ing-web-2.8.0.jar jedis-2.9.0.jar gson-2.8.0.jar spring-cloud-netflix
+ -hystrix-dashboard-2.1.0.RELEASE.jar guava-23.0.jar commons-beanutils
+ -1.9.3.jar netty-transport-4.1.22.Final.jar ribbon-eureka-2.3.0.jar s
+ pring-cloud-netflix-eureka-client-2.1.0.RELEASE.jar jsqlparser-1.2.ja
+ r d3js-3.4.11.jar tomcat-embed-websocket-9.0.13.jar druid-1.1.10.jar 
+ spring-security-crypto-5.1.2.RELEASE.jar thymeleaf-expression-process
+ or-1.1.2.jar ant-launcher-1.9.6.jar commons-lang3-3.4.jar commons-col
+ lections-3.2.2.jar validation-api-2.0.1.Final.jar spring-cloud-starte
+ r-netflix-eureka-client-2.1.0.RELEASE.jar ribbon-core-2.3.0.jar commo
+ ns-codec-1.10.jar log4j-to-slf4j-2.11.1.jar spring-expression-5.1.3.R
+ ELEASE.jar HikariCP-3.2.0.jar feign-core-10.1.0.jar netty-codec-4.1.2
+ 2.Final.jar spring-context-5.1.3.RELEASE.jar spring-boot-starter-tomc
+ at-2.1.1.RELEASE.jar pagehelper-spring-boot-autoconfigure-1.2.3.jar x
+ mlbeans-2.6.0.jar stax-api-1.0-2.jar security-0.0.1.jar context-0.0.1
+ .jar thymeleaf-layout-dialect-2.1.2.jar spring-boot-starter-2.1.1.REL
+ EASE.jar spring-boot-autoconfigure-2.1.1.RELEASE.jar freemarker-2.3.2
+ 8.jar commons-math-2.2.jar unbescape-1.1.6.RELEASE.jar ant-1.9.6.jar 
+ servo-core-0.12.21.jar spring-plugin-core-1.2.0.RELEASE.jar netflix-s
+ tatistics-0.1.1.jar aspectjrt-1.5.4.jar spring-cloud-netflix-ribbon-2
+ .1.0.RELEASE.jar netty-handler-4.1.22.Final.jar thymeleaf-spring5-3.0
+ .11.RELEASE.jar jackson-module-afterburner-2.9.7.jar netty-resolver-4
+ .1.22.Final.jar spring-cloud-starter-netflix-hystrix-2.1.1.RELEASE.ja
+ r spring-data-keyvalue-2.1.3.RELEASE.jar spring-jdbc-5.1.3.RELEASE.ja
+ r httpcore-4.4.10.jar spring-cloud-starter-2.1.0.RELEASE.jar asm-5.0.
+ 4.jar mapstruct-1.2.0.Final.jar jsr305-1.3.9.jar hibernate-validator-
+ 6.0.13.Final.jar spring-security-rsa-1.0.7.RELEASE.jar logback-core-1
+ .2.3.jar spring-cloud-starter-eureka-1.4.6.RELEASE.jar mybatis-3.4.6.
+ jar aliyun-sdk-oss-2.8.3.jar data-0.0.1.jar jul-to-slf4j-1.7.25.jar s
+ pringfox-swagger-common-2.8.0.jar jackson-datatype-jsr310-2.9.7.jar a
+ nimal-sniffer-annotations-1.14.jar xmlpull-1.1.3.1.jar mybatis-spring
+ -boot-starter-1.3.2.jar j2objc-annotations-1.1.jar feign-hystrix-10.1
+ .0.jar lettuce-core-5.1.3.RELEASE.jar logback-classic-1.2.3.jar sprin
+ g-data-redis-2.1.3.RELEASE.jar spring-cloud-openfeign-core-2.1.0.RELE
+ ASE.jar tomcat-embed-el-9.0.13.jar tomcat-embed-core-9.0.13.jar class
+ mate-1.4.0.jar jackson-core-2.9.7.jar commons-jxpath-1.3.jar ribbon-t
+ ransport-2.3.0.jar poi-3.13.jar commons-pool2-2.6.0.jar spring-boot-s
+ tarter-thymeleaf-2.1.1.RELEASE.jar spring-cloud-netflix-archaius-2.1.
+ 0.RELEASE.jar eureka-core-1.9.8.jar rxjava-reactive-streams-1.2.1.jar
+  rxnetty-contexts-0.4.9.jar javassist-3.21.0-GA.jar netflix-commons-u
+ til-0.3.0.jar attoparser-2.0.5.RELEASE.jar stax2-api-3.1.4.jar jquery
+ -2.1.1.jar log4j-1.2.17.jar spring-boot-starter-aop-2.1.1.RELEASE.jar
+  eureka-client-1.9.8.jar jdom-1.1.jar commons-configuration-1.8.jar s
+ lf4j-api-1.7.25.jar commons-lang-2.6.jar httpclient-4.5.6.jar javax.i
+ nject-1.jar reactor-core-3.2.3.RELEASE.jar spring-cloud-starter-netfl
+ ix-archaius-2.1.0.RELEASE.jar aopalliance-1.0.jar stax-api-1.0.1.jar 
+ spring-aop-5.1.3.RELEASE.jar spring-cloud-starter-feign-1.4.4.RELEASE
+ .jar antlr-2.7.7.jar spring-core-5.1.3.RELEASE.jar swagger-models-1.5
+ .14.jar thymeleaf-3.0.11.RELEASE.jar bcprov-jdk15on-1.60.jar snakeyam
+ l-1.23.jar commons-logging-1.0.4.jar reflections-0.9.11.jar spring-ox
+ m-5.1.3.RELEASE.jar spring-boot-starter-data-redis-2.1.1.RELEASE.jar 
+ spring-boot-starter-json-2.1.1.RELEASE.jar woodstox-core-asl-4.4.1.ja
+ r spring-context-support-5.1.3.RELEASE.jar hystrix-javanica-1.5.18.ja
+ r dexx-collections-0.2.jar jersey-apache-client4-1.19.1.jar spring-cl
+ oud-starter-netflix-ribbon-2.1.0.RELEASE.jar poi-ooxml-schemas-3.13.j
+ ar stringtemplate-3.2.1.jar spring-boot-starter-freemarker-2.1.1.RELE
+ ASE.jar jackson-datatype-jdk8-2.9.7.jar commons-fileupload-1.3.1.jar 
+ spring-cloud-starter-netflix-hystrix-dashboard-2.1.1.RELEASE.jar xpp3
+ _min-1.1.4c.jar netflix-infix-0.3.0.jar jackson-module-parameter-name
+ s-2.9.7.jar spring-cloud-context-2.1.0.RELEASE.jar fastjson-1.2.47.ja
+ r javax.annotation-api-1.3.2.jar netty-common-4.1.22.Final.jar spring
+ -boot-2.1.1.RELEASE.jar springfox-swagger-ui-2.8.0.jar archaius-core-
+ 0.7.6.jar mybatis-spring-1.3.2.jar spring-webmvc-5.1.3.RELEASE.jar ne
+ tflix-eventbus-0.3.0.jar ribbon-loadbalancer-2.3.0.jar hystrix-core-1
+ .5.12.jar spring-jcl-5.1.3.RELEASE.jar bcpkix-jdk15on-1.60.jar amqp-c
+ lient-5.2.0.jar spring-boot-starter-jdbc-2.1.1.RELEASE.jar rxjava-1.3
+ .8.jar netty-all-4.1.22.Final.jar feign-slf4j-10.1.0.jar feign-form-s
+ pring-3.5.0.jar guice-4.1.0.jar spring-cloud-netflix-hystrix-2.1.0.RE
+ LEASE.jar rxnetty-servo-0.4.9.jar springfox-swagger2-2.8.0.jar spring
+ fox-spi-2.8.0.jar api-0.0.1.jar jboss-logging-3.3.2.Final.jar ribbon-
+ httpclient-2.3.0.jar ognl-3.1.12.jar
+

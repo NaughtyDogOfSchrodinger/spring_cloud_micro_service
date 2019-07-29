@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="api:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d1a81a2-cb70-4494-a2e1-c6e47f495282" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_7_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_10_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_27_incubating.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_6_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_0_2_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_mongodb_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_1_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_0_0_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_19.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/com/jianghu/mscore/api/AjaxResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/com/jianghu/mscore/api/CommonErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/com/jianghu/mscore/api/Error.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/com/jianghu/mscore/api/ErrorCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/com/jianghu/mscore/api/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/com/jianghu/mscore/api/PageVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/target/classes/com/jianghu/mscore/api/ResultVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/cache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cache/cache.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/annotation/MspCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/config/RedisFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/config/RedisObjectSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/config/RedisProperties$Pool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/config/RedisProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/exception/CacheException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/AbstractRedisHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/RedisListHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/RedisSetHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/RedisValueHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/RedisZSetHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/base/RedisListOperationsInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/base/RedisOperationsInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/base/RedisSetOperationsInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/base/RedisValueOperationsInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/handler/base/RedisZSetOperationsInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cache/target/classes/com/jianghu/mscore/cache/interceptor/CacheAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/context.iml" beforeDir="false" afterPath="$PROJECT_DIR$/context/context.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/context/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/AppThreadCache$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/AppThreadCache$ThreadContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/AppThreadCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/ApplicationConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/ApplicationConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/ApplicationContextHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/ErrorConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/GlobalConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/RemoteServiceConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/config/RestTemplateConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/constant/TokenManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/data/base/AbstractDatabaseEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/data/base/InterfaceCrudMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/data/base/InterfaceMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/exception/RemoteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/exception/ServiceException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/exception/ValidateException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/interceptor/ApiAuthInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/interceptor/DefaultAclInterceptor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/interceptor/DefaultAclInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/remote/HttpRequestInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/remote/InterfaceFeignClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/remote/RmcInvoker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/remote/RmcInvoker$HystrixCommandOptions$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/remote/RmcInvoker$HystrixCommandOptions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/remote/RmcInvoker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/service/AbstractService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/context/target/classes/com/jianghu/mscore/context/service/MspService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/core.iml" beforeDir="false" afterPath="$PROJECT_DIR$/core/core.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/annotation/DataLog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/annotation/ExcludeXss.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/annotation/MspApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/annotation/MspController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/annotation/MspGetMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/annotation/MspPostMapping.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/annotation/Permission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/config/AppAsyncConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/config/BaseConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/context/EventPublisher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/context/WebApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/exception/AppBusinessException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/exception/RemoteCallException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/exception/ServiceUnavailableException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/mvc/web/controller/AbstractController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/mvc/web/controller/AppErrorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/mvc/web/controller/AppExceptionHandlerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/mvc/web/controller/AuthorizationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/mvc/web/interceptor/ControllerInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/remote/HttpRemoteService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/vo/SectionVo$Authority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/vo/SectionVo$Section.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/jianghu/mscore/core/vo/SectionVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data/data.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/annotation/Encrypt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/annotation/TransactionRead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/annotation/TransactionWrite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/config/DataSourceProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/config/MybatisDataSource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/exception/DataException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/interceptor/MapperDecryptInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/interceptor/MapperEncryptInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/interceptor/PerformanceInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/interceptor/QueryEncryptInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/util/MSUtils$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/util/MSUtils$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/util/MSUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/util/ParamEncryptHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/util/SqlHelper$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/util/SqlHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/util/SqlMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/target/classes/com/jianghu/mscore/data/web/interceptor/DruidStatFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception/target/classes/com/jianghu/mscore/exception/BaseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception/target/classes/com/jianghu/mscore/exception/MspException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception/target/classes/com/jianghu/mscore/exception/WebException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/file.iml" beforeDir="false" afterPath="$PROJECT_DIR$/file/file.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/FileManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/Loadable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/constant/FileSuffix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/constant/FileType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/constant/OssProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/download/AbstractDownload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/download/Download.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/download/DownloadHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/download/ExcelDownload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/download/ImageDownload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/excel/ExcelTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/exception/FileException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/upload/AbandonedUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/upload/AbstractUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/upload/ImageUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/upload/OfficeUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/upload/PdfUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/upload/RarUpload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/upload/Upload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/util/FileTypeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/util/ImageUtil$ImageSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/util/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/util/ZXingCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/vo/FileResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file/target/classes/com/jianghu/mscore/file/vo/ImageVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/mongodb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/mongodb/mongodb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mongodb/target/classes/com/jianghu/mscore/mongodb/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/pay.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pay/pay.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/src/main/java/com/jianghu/mscore/pay/constant/AliPayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/pay/src/main/java/com/jianghu/mscore/pay/constant/AliPayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/src/main/java/com/jianghu/mscore/pay/constant/WeixinPayConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/pay/src/main/java/com/jianghu/mscore/pay/constant/WeixinPayConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/callback/OrderProcess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/config/XmlConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/constant/AliPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/constant/AliPayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/constant/WeixinPayConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/constant/WeixinPayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/core/PayMonitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/exception/PayException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/IWXPayDomain$DomainInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/IWXPayDomain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayConstants$SignType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayConstants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayReport$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayReport$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayReport$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayReport$ReportInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/util/WXPayXmlUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/vo/OrderQueryVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/vo/PayModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/vo/PrePayVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pay/target/classes/com/jianghu/mscore/pay/vo/WxCallbackVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata/seata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seata/seata.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata/target/classes/com/jianghu/mscore/seata/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata/target/classes/com/jianghu/mscore/seata/config/SeataConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata/target/classes/file.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seata/target/classes/registry.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/target/classes/com/jianghu/mscore/security/AuthUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/target/classes/com/jianghu/mscore/security/Cryptos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/target/classes/com/jianghu/mscore/security/Digests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/target/classes/com/jianghu/mscore/security/DigestsType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/target/classes/com/jianghu/mscore/security/Encodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/target/classes/com/jianghu/mscore/security/MD5Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/ArrayUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/Assembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/BeanUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/ClassUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/DateUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/EncryptUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/JsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/JsonValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/ObjectUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/RandomUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/ReflectUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/RegexUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/StringUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/ApplicationType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/Browser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/BrowserType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/DeviceType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/Manufacturer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/OperatingSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/PatternBasedVersionFetcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/RenderingEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/SafariUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/SequentialVersionFetcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/UserAgent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/Version.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/VersionFetcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/target/classes/com/jianghu/mscore/util/browser/VersionFetcherFromMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/util/util.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/annotation/ApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/annotation/UiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/annotation/WebApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/config/AppThreadCache$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/config/AppThreadCache$ThreadContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/config/AppThreadCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/config/BaseConfigurer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/config/BeanContext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/config/properties/ApplicationProperties.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/constant/AuthUrl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/constant/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/constant/DateFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/constant/PlatformEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/constant/PropertiesKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/controller/AbstractController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/controller/AuthenticationApiController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/controller/MyErrorController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/core/util/Assembler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/exception/AuthenticationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/im/UdpChannel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/im/UdpChannel$UdpChannelUnsafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/im/UdpChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/im/UdpClientInboundHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/im/UdpServerChannel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/im/UdpServerChannelConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/interceptor/AuthenticationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/interceptor/GlobalInterceptor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/service/AbstractService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/service/AuthenticationService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/util/AjaxResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/util/BeanUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/util/HttpUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/util/JsonTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/util/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/util/RestAuthResultWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/util/RmcResultWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/vo/CheckAuthorityVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/vo/PageVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/target/classes/com/jianghu/mscore/web/vo/ResultVo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web/web.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectId" id="1OfraSpCOlQ2byCCgXo0dlB9ZZu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seata" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/core/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jianghu.mscore.context.interceptor" />
+      <recent name="com.jianghu.mscore.context.config" />
+      <recent name="com.jianghu.mscore.temp.interceptor" />
+      <recent name="com.jianghu.mscore.temp.exception" />
+      <recent name="com.jianghu.mscore.pay.constant" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/seata" />
+      <recent name="$PROJECT_DIR$/seata/src/main/resources" />
+      <recent name="$PROJECT_DIR$/data/src/main/resources" />
+      <recent name="$PROJECT_DIR$/temp/src/main/java/com/jianghu/mscore/temp" />
+      <recent name="$PROJECT_DIR$/core/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.seata/Dockerfile">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jianghu.mscore.exception.Main" />
+      <module name="exception" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jianghu.mscore.exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jianghu.mscore.pay.core.PayMonitor" />
+      <module name="pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jianghu.mscore.pay.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jianghu.mscore.pay.core.Streams" />
+      <module name="pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jianghu.mscore.pay.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="ms-core" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="ms-core" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="seata/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="seata" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="seata:dev" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="seata/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.seata/Dockerfile" />
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.PayMonitor" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d1a81a2-cb70-4494-a2e1-c6e47f495282" name="Default Changelist" comment="" />
+      <created>1556083989918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556083989918</updated>
+      <workItem from="1556083993214" duration="47954000" />
+      <workItem from="1557131286603" duration="2966000" />
+      <workItem from="1557150921940" duration="189000" />
+      <workItem from="1557192120522" duration="2293000" />
+      <workItem from="1557205555059" duration="8410000" />
+      <workItem from="1557230411903" duration="9807000" />
+      <workItem from="1557379134741" duration="9173000" />
+      <workItem from="1557451263475" duration="23664000" />
+      <workItem from="1557479258644" duration="3224000" />
+      <workItem from="1557489009452" duration="2124000" />
+      <workItem from="1557491547812" duration="11294000" />
+      <workItem from="1557733351068" duration="2437000" />
+      <workItem from="1557898749503" duration="13509000" />
+      <workItem from="1558007056403" duration="12096000" />
+      <workItem from="1558082937404" duration="2183000" />
+      <workItem from="1558157938503" duration="33828000" />
+      <workItem from="1558424562579" duration="1488000" />
+      <workItem from="1558441601420" duration="19000" />
+      <workItem from="1558442856292" duration="6823000" />
+      <workItem from="1558681170090" duration="671000" />
+      <workItem from="1558690354881" duration="3329000" />
+      <workItem from="1558935522568" duration="8248000" />
+      <workItem from="1559007456208" duration="1992000" />
+      <workItem from="1559029924651" duration="611000" />
+      <workItem from="1559034079378" duration="227000" />
+      <workItem from="1559097169284" duration="8231000" />
+      <workItem from="1559265858080" duration="8409000" />
+      <workItem from="1559279310055" duration="230000" />
+      <workItem from="1559279644935" duration="7031000" />
+      <workItem from="1559455054527" duration="2084000" />
+      <workItem from="1559532757224" duration="4331000" />
+      <workItem from="1559547968970" duration="3881000" />
+      <workItem from="1559618515758" duration="1786000" />
+      <workItem from="1559627266092" duration="6734000" />
+      <workItem from="1559697254875" duration="7056000" />
+      <workItem from="1559798094400" duration="3860000" />
+      <workItem from="1559874475393" duration="59855000" />
+      <workItem from="1560734969226" duration="8135000" />
+      <workItem from="1560753652326" duration="18677000" />
+      <workItem from="1561029212803" duration="23629000" />
+      <workItem from="1561339247948" duration="15905000" />
+      <workItem from="1561429233898" duration="12050000" />
+      <workItem from="1561513392670" duration="9812000" />
+      <workItem from="1561695132929" duration="839000" />
+      <workItem from="1561714631779" duration="68000" />
+      <workItem from="1561960510509" duration="2890000" />
+      <workItem from="1562132716471" duration="327000" />
+      <workItem from="1562143915689" duration="581000" />
+      <workItem from="1563873787735" duration="663000" />
+      <workItem from="1564378704290" duration="506000" />
+      <workItem from="1564379310506" duration="174000" />
+      <workItem from="1564379564915" duration="143000" />
+      <workItem from="1564379735036" duration="690000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/security/src/main/java/com/jianghu/mscore/security/AuthUtil.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>api:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>laypage</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|context</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

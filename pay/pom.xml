@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>ms-core</artifactId>
+        <groupId>com.jianghu</groupId>
+        <version>0.0.1-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <properties>
+        <commons-httpclient.version>3.1</commons-httpclient.version>
+    </properties>
+
+    <artifactId>pay</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.dataformat</groupId>
+            <artifactId>jackson-dataformat-xml</artifactId>
+            <version>${jackson.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jianghu</groupId>
+            <artifactId>context</artifactId>
+            <version>${ms-core.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jianghu</groupId>
+            <artifactId>file</artifactId>
+            <version>${ms-core.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jianghu</groupId>
+            <artifactId>util</artifactId>
+            <version>${ms-core.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.jianghu</groupId>
+            <artifactId>exception</artifactId>
+            <version>${ms-core.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alipay.sdk</groupId>
+            <artifactId>alipay-sdk-java</artifactId>
+            <version>3.7.89.ALL</version>
+        </dependency>
+        <!-- commons-httpclient -->
+        <dependency>
+            <groupId>commons-httpclient</groupId>
+            <artifactId>commons-httpclient</artifactId>
+            <version>${commons-httpclient.version}</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
+        <dependency>
+            <groupId>org.apache.httpcomponents</groupId>
+            <artifactId>httpclient</artifactId>
+            <version>${httpclient.version}</version>
+        </dependency>
+
+
+    </dependencies>
+
+
+</project>

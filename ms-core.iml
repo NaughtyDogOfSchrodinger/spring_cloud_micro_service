@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/com/jianghu/mscore/core/config/AppAsyncConfigurer.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/jianghu/mscore/context/config/ApplicationConfigurer.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/jianghu/mscore/core/mvc/web/interceptor/InterceptorConfigurer.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/jianghu/mscore/MsCoreApplication.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/jianghu/mscore/core/config/MspWebMvcConfigurerAdapter.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/jianghu/mscore/data/config/MybatisDataSource.java</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/jianghu/mscore/cache/config/RedisFactory.java</file>
+          <file>jar://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class</file>
+          <file>file://$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.jar</file>
+          <file>jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.3/pagehelper-spring-boot-autoconfigure-1.2.3.jar!/com/github/pagehelper/autoconfigure/PageHelperAutoConfiguration.class</file>
+          <file>file://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-autoconfigure/1.2.3/pagehelper-spring-boot-autoconfigure-1.2.3.jar</file>
+          <file>jar://$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar!/springfox/documentation/schema/configuration/ModelsConfiguration.class</file>
+          <file>file://$MAVEN_REPOSITORY$/io/springfox/springfox-schema/2.9.2/springfox-schema-2.9.2.jar</file>
+          <file>jar://$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar!/springfox/documentation/spring/web/SpringfoxWebMvcConfiguration.class</file>
+          <file>file://$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2.jar</file>
+          <file>jar://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar!/springfox/documentation/swagger/configuration/SwaggerCommonConfiguration.class</file>
+          <file>file://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2.jar</file>
+          <file>jar://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.jar!/springfox/documentation/swagger2/configuration/Swagger2DocumentationConfiguration.class</file>
+          <file>file://$MAVEN_REPOSITORY$/io/springfox/springfox-swagger2/2.9.2/springfox-swagger2-2.9.2.jar</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-log4j12:1.7.25" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: log4j:log4j:1.2.17" level="project" />
+  </component>
+</module>

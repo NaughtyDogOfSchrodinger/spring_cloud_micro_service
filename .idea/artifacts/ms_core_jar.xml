@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="ms-core:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/ms_core_jar</output-path>
+    <root id="root">
+      <element id="archive" name="ms-core.jar">
+        <element id="module-output" name="ms-core" />
+      </element>
+    </root>
+  </artifact>
+</component>

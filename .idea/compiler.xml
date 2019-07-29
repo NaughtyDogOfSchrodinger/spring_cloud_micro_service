@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="web" />
+        <module name="api" />
+        <module name="data" />
+        <module name="exception" />
+        <module name="security" />
+        <module name="mongodb" />
+        <module name="file" />
+        <module name="util" />
+        <module name="core" />
+        <module name="cache" />
+        <module name="pay" />
+        <module name="seata" />
+        <module name="context" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.8" />
+      <module name="cache" target="1.8" />
+      <module name="context" target="1.8" />
+      <module name="core" target="1.8" />
+      <module name="data" target="1.8" />
+      <module name="exception" target="1.8" />
+      <module name="file" target="1.8" />
+      <module name="mongodb" target="1.8" />
+      <module name="ms-core" target="1.8" />
+      <module name="pay" target="1.8" />
+      <module name="seata" target="1.8" />
+      <module name="security" target="1.8" />
+      <module name="temp" target="1.8" />
+      <module name="util" target="1.8" />
+      <module name="web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="api" options="-parameters" />
+      <module name="cache" options="-parameters" />
+      <module name="context" options="-parameters" />
+      <module name="core" options="-parameters" />
+      <module name="data" options="-parameters" />
+      <module name="exception" options="-parameters" />
+      <module name="file" options="-parameters" />
+      <module name="mongodb" options="-parameters" />
+      <module name="ms-core" options="" />
+      <module name="pay" options="-parameters" />
+      <module name="seata" options="-parameters" />
+      <module name="security" options="-parameters" />
+      <module name="temp" options="-parameters" />
+      <module name="util" options="-parameters" />
+      <module name="web" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="security:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/security_jar</output-path>
+    <root id="root">
+      <element id="archive" name="security.jar">
+        <element id="module-output" name="security" />
+      </element>
+    </root>
+  </artifact>
+</component>

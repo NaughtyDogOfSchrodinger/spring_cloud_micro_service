@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.hearglobal.msp.data.mapper.SnapshotMapper" >
+    <resultMap id="BaseResultMap" type="com.hearglobal.msp.data.domain.Snapshot" >
+        <id column="ID" property="id" jdbcType="INTEGER" />
+        <result column="TABLE_NAME" property="tableName" jdbcType="VARCHAR" />
+        <result column="PRIMARY_KEY_COLUMN" property="primaryKeyColumn" jdbcType="VARCHAR" />
+        <result column="PRIMARY_KEY_VALUE" property="primaryKeyValue" jdbcType="INTEGER" />
+        <result column="DATE" property="date" jdbcType="DATE" />
+        <result column="VERSION" property="version" jdbcType="INTEGER" />
+        <result column="SERVICE" property="service" jdbcType="VARCHAR" />
+        <result column="CREATE_TIME" property="createTime" jdbcType="TIMESTAMP" />
+    </resultMap>
+    <resultMap id="ResultMapWithBLOBs" type="com.hearglobal.msp.data.domain.Snapshot" extends="BaseResultMap" >
+        <result column="SNAPSHOT" property="snapshot" jdbcType="LONGVARCHAR" />
+    </resultMap>
+    <sql id="Base_Column_List" >
+    ID, TABLE_NAME, PRIMARY_KEY_COLUMN, PRIMARY_KEY_VALUE, DATE, VERSION, SERVICE, CREATE_TIME
+  </sql>
+    <sql id="Blob_Column_List" >
+    SNAPSHOT
+  </sql>
+    <select id="selectByPrimaryKey" resultMap="ResultMapWithBLOBs" parameterType="java.lang.Integer" >
+        select
+        <include refid="Base_Column_List" />
+        ,
+        <include refid="Blob_Column_List" />
+        from snapshot
+        where ID = #{id,jdbcType=INTEGER}
+    </select>
+    <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer" >
+    delete from snapshot
+    where ID = #{id,jdbcType=INTEGER}
+  </delete>
+    <insert id="insertSelective" parameterType="com.hearglobal.msp.data.domain.Snapshot" >
+        <selectKey resultType="java.lang.Integer" keyProperty="id" order="AFTER" >
+            SELECT LAST_INSERT_ID()
+        </selectKey>
+        insert into snapshot
+        <trim prefix="(" suffix=")" suffixOverrides="," >
+            <if test="tableName != null" >
+                TABLE_NAME,
+            </if>
+            <if test="primaryKeyColumn != null" >
+                PRIMARY_KEY_COLUMN,
+            </if>
+            <if test="primaryKeyValue != null" >
+                PRIMARY_KEY_VALUE,
+            </if>
+            <if test="date != null" >
+                DATE,
+            </if>
+            <if test="version != null" >
+                VERSION,
+            </if>
+            <if test="service != null" >
+                SERVICE,
+            </if>
+            <if test="createTime != null" >
+                CREATE_TIME,
+            </if>
+            <if test="snapshot != null" >
+                SNAPSHOT,
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides="," >
+            <if test="tableName != null" >
+                #{tableName,jdbcType=VARCHAR},
+            </if>
+            <if test="primaryKeyColumn != null" >
+                #{primaryKeyColumn,jdbcType=VARCHAR},
+            </if>
+            <if test="primaryKeyValue != null" >
+                #{primaryKeyValue,jdbcType=INTEGER},
+            </if>
+            <if test="date != null" >
+                #{date,jdbcType=DATE},
+            </if>
+            <if test="version != null" >
+                #{version,jdbcType=INTEGER},
+            </if>
+            <if test="service != null" >
+                #{service,jdbcType=VARCHAR},
+            </if>
+            <if test="createTime != null" >
+                #{createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="snapshot != null" >
+                #{snapshot,jdbcType=LONGVARCHAR},
+            </if>
+        </trim>
+    </insert>
+    <update id="updateByPrimaryKeySelective" parameterType="com.hearglobal.msp.data.domain.Snapshot" >
+        update snapshot
+        <set >
+            <if test="tableName != null" >
+                TABLE_NAME = #{tableName,jdbcType=VARCHAR},
+            </if>
+            <if test="primaryKeyColumn != null" >
+                PRIMARY_KEY_COLUMN = #{primaryKeyColumn,jdbcType=VARCHAR},
+            </if>
+            <if test="primaryKeyValue != null" >
+                PRIMARY_KEY_VALUE = #{primaryKeyValue,jdbcType=INTEGER},
+            </if>
+            <if test="date != null" >
+                DATE = #{date,jdbcType=DATE},
+            </if>
+            <if test="version != null" >
+                VERSION = #{version,jdbcType=INTEGER},
+            </if>
+            <if test="service != null" >
+                SERVICE = #{service,jdbcType=VARCHAR},
+            </if>
+            <if test="createTime != null" >
+                CREATE_TIME = #{createTime,jdbcType=TIMESTAMP},
+            </if>
+            <if test="snapshot != null" >
+                SNAPSHOT = #{snapshot,jdbcType=LONGVARCHAR},
+            </if>
+        </set>
+        where ID = #{id,jdbcType=INTEGER}
+    </update>
+    <update id="updateByPrimaryKeyWithBLOBs" parameterType="com.hearglobal.msp.data.domain.Snapshot" >
+    update snapshot
+    set TABLE_NAME = #{tableName,jdbcType=VARCHAR},
+      PRIMARY_KEY_COLUMN = #{primaryKeyColumn,jdbcType=VARCHAR},
+      PRIMARY_KEY_VALUE = #{primaryKeyValue,jdbcType=INTEGER},
+      DATE = #{date,jdbcType=DATE},
+      VERSION = #{version,jdbcType=INTEGER},
+      SERVICE = #{service,jdbcType=VARCHAR},
+      CREATE_TIME = #{createTime,jdbcType=TIMESTAMP},
+      SNAPSHOT = #{snapshot,jdbcType=LONGVARCHAR}
+    where ID = #{id,jdbcType=INTEGER}
+  </update>
+    <sql id="sql_where" >
+        <where >
+            <if test="tableName != null" >
+                and TABLE_NAME = #{tableName,jdbcType=VARCHAR}
+            </if>
+            <if test="primaryKeyColumn != null" >
+                and PRIMARY_KEY_COLUMN = #{primaryKeyColumn,jdbcType=VARCHAR}
+            </if>
+            <if test="primaryKeyValue != null" >
+                and PRIMARY_KEY_VALUE = #{primaryKeyValue,jdbcType=INTEGER}
+            </if>
+            <if test="date != null" >
+                and DATE = #{date,jdbcType=DATE}
+            </if>
+            <if test="version != null" >
+                and VERSION = #{version,jdbcType=INTEGER}
+            </if>
+            <if test="service != null" >
+                and SERVICE = #{service,jdbcType=VARCHAR}
+            </if>
+            <if test="createTime != null" >
+                and CREATE_TIME = #{createTime,jdbcType=TIMESTAMP}
+            </if>
+            <if test="snapshot != null" >
+                and SNAPSHOT = #{snapshot,jdbcType=LONGVARCHAR}
+            </if>
+        </where>
+    </sql>
+    <select id="getList" resultMap="BaseResultMap" parameterType="com.hearglobal.msp.data.domain.Snapshot" >
+        select * from snapshot
+        <include refid="sql_where" />
+    </select>
+</mapper>
