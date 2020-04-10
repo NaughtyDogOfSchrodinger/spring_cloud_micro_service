@@ -6,16 +6,16 @@ import org.springframework.stereotype.Component;
 @Component
 public class OssProperties {
 
-    @Value("${oss.endpoint:https://oss-cn-qingdao.aliyuncs.com}")
+    @Value("${oss.endpoint}")
     private String endpoint;
 
-    @Value("${oss.accessKeyId:rnuZHLAdmKbIBAlq}")
+    @Value("${oss.accessKeyId}")
     private String accessKeyId;
 
-    @Value("${oss.accessKeySecret:UtZZwW5EOgxwZQFT0psfnlxzm3LeY4}")
+    @Value("${oss.accessKeySecret}")
     private String accessKeySecret;
 
-    @Value("${oss.bucketName:customer-service-bucket}")
+    @Value("${oss.bucketName}")
     private String bucketName;
 
     public String getEndpoint() {
